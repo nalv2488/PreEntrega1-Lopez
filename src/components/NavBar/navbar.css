@@ -1,0 +1,35 @@
+    * {
+        padding: 0;
+        margin: 0;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    .main-navbar{
+        justify-content: space-between;
+
+    }
+    .div-navbar{
+        color: white;
+        display: flex;
+        place-items: center; 
+        background-color: #37003c;
+                
+    }
+
+    .h1-header {
+        font-size: 32px;
+        margin-left: 5px;
+        text-align: center;
+    }
+
+    .li-header{
+        text-decoration: none;
+        font-size: 20px;
+    }
+
+    .logo-epl-main {
+        height: 60px;
+        margin-left: 5px;
+        margin-top: 3px;
+        
+    }
